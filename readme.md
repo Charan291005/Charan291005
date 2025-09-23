@@ -1,8 +1,8 @@
 ```
-      gM%@%%@N%Nw,,                   shreecharan@grant
+      gM%@%%@N%Nw,,                   fr_charan
   ,M*`|||*%gNM-]mM%g|%N,             ─────────────────────────────────────────────────────────
- p|.. ||''' `'''|lhlj%w              . OS: ........................... Linux, Windows 10, Android
-  @L     ,,,,   |j%M]%.               . Uptime: ...................... 20 years, 8 months, 15 days  
+ p|.. ||''' `'''|lhlj%w              . OS: ........................... Linux, Windows 11, Android
+  @L     ,,,,   |j%M]%.               . Uptime: ...................... 19 years, 11 months, 23 days  
   ]j,,,wp@pw,   ''''''%wg            . Host: ....................... VIT Bhopal University, Inc.
 //|||@@@@@@@pp.      |||||           . Kernel: ................... CSE (CyberSec & Digital Forensics)
  ,'.||@@@@@@@p.      ||||            . IDE: ...................... Android Studio, VSCode, Jupyter
@@ -19,12 +19,9 @@ H|%%j%*]k[|||j;;jl|'%ij]|@
   kjj%kkkl|||''''''''||              . Email.Professional: .......... shreecharan@vitbhopal.ac.in
    jm%@@kkk||||||'.|l                . LinkedIn: ................... linkedin.com/in/shree-charan-n
    @|j%@@%jkk|||]*;|                 . GitHub: ..................... github.com/Charan291005
-    [@mpjjkkl||j]* '|                . Discord: .................... shreecharan#5277
+    [@mpjjkkl||j]* '|                . Discord: .................... shreecharann
     @@@p,,,,,,jjk'                   
-    @HNb%x{illjkj%@@                 ─ GitHub Stats ────────────────────────────────────────────────
-   =['oH%%%@[gklljij%kk@             . Repos: .... 25+ {contributed: 50+} | Stars: ........... 85+
-                                     . Commits: .................... 2,500+ | Followers: ........ 150+
-                                     . Lines of Code on GitHub: .... 180,000+ (Python: 90,000+, Java: 60,000+)
+    @HNb%x{illjkj%@@          
 ```
 
 # 💫 About Me:
