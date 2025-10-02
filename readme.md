@@ -16,7 +16,7 @@ k%%%@[,nL;,,j%vkko%. [               . Hobbies.Hardware: ........... Digital For
 H|%%j%*]k[|||j;;jl|'%ij]|@          
   "djjmk,l][,,,wwwx]#kj*             ─ Contact ─────────────────────────────────────────────────────
   %,%k%%%%%M%M%kjkii||               . Email.Personal: .............. shreecharan5277443@gmail.com
-  kjj%kkkl|||''''''''||              . Email.Professional: .......... shreecharan@vitbhopal.ac.in
+  kjj%kkkl|||''''''''||              . Email.Professional: .......... shree.23bcy10004@vitbhopal.ac.in
    jm%@@kkk||||||'.|l                . LinkedIn: ................... linkedin.com/in/shree-charan-n
    @|j%@@%jkk|||]*;|                 . GitHub: ..................... github.com/Charan291005
     [@mpjjkkl||j]* '|                . Discord: .................... shreecharann
