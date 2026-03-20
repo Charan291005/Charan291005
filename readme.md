@@ -2,7 +2,7 @@
       gM%@%%@N%Nw,,                   fr_charan
   ,M*`|||*%gNM-]mM%g|%N,             ─────────────────────────────────────────────────────────
  p|.. ||''' `'''|lhlj%w              . OS: ........................... Linux, Windows 11, Android
-  @L     ,,,,   |j%M]%.               . Uptime: ...................... 19 years, 11 months, 23 days  
+  @L     ,,,,   |j%M]%.               . Uptime: ...................... 20 years, 6 months, 23 days  
   ]j,,,wp@pw,   ''''''%wg            . Host: ....................... VIT Bhopal University, Inc.
 //|||@@@@@@@pp.      |||||           . Kernel: ................... CSE (CyberSec & Digital Forensics)
  ,'.||@@@@@@@p.      ||||            . IDE: ...................... Android Studio, VSCode, Jupyter
@@ -88,7 +88,7 @@ H|%%j%*]k[|||j;;jl|'%ij]|@
 
 ## 🎯 Leadership & Extracurricular:
 - **General Secretary** - Android Club, VIT Bhopal
-- **Co-Lead PR and Outreach** - The Fusion Club
+- **Lead PR and Outreach** - The Fusion Club
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Charan291005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
