@@ -66,13 +66,27 @@ class ShreeCharan:
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Charan291005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charan291005&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Charan291005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charan291005&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="48%" />
 </div>
 <br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charan291005&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charan291005&theme=tokyo-night&hide_border=true&area=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Charan291005&theme=tokyonight" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charan291005&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
+
+<br>
+<!-- Contribution Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Charan291005/Charan291005/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Charan291005/Charan291005/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Charan291005/Charan291005/output/dist/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 ---
