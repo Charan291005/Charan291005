@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Shree%20Charan%20N&fontSize=80&fontAlignY=35&desc=Cybersecurity%20%7C%20Digital%20Forensics%20%7C%20Software%20Engineering&descAlignY=55&descAlign=62&animation=fadeIn" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cybersecurity+Undergraduate+%40+VIT;Digital+Forensics+Explorer;Android+%26+Web+Developer;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cybersecurity+Undergraduate+%40+VIT;Digital+Forensics+Explorer;Android+%26+Web+Developer;Minion+Mastermind" alt="Typing SVG" />
   </a>
 </div>
 
@@ -82,10 +82,32 @@ class ShreeCharan:
 
 ---
 
-## 📈 Detailed GitHub Metrics
+## 🍌 Minion-Approved Hacker Stats
+
+<table align="center" style="border:none;">
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://media.giphy.com/media/11s7Ke7jcNxCHS/giphy.gif" alt="Minions Cheering" width="100%" />
+      <br><br>
+      <img src="https://media.giphy.com/media/2Faz6y15R1q7Y08Gk/giphy.gif" alt="Minion Work" width="100%" />
+    </td>
+    <td width="70%" align="center">
+      <img src="https://metrics.lecoq.io/Charan291005?template=terminal&base=header,activity,community,repositories,metadata&config_timezone=Asia/Kolkata" width="100%" alt="Hacker Terminal Metrics" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌃 Cyber-City Commit Graph
+*(This is my commit history rendered as a glowing 3D cyberpunk city!)*
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/Charan291005?template=classic&base=header,activity,community,repositories,metadata&config_timezone=Asia/Kolkata" width="80%" alt="Metrics Dashboard" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg">
+    <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-view.svg" width="100%">
+  </picture>
 </div>
 
 <br>
@@ -93,17 +115,6 @@ class ShreeCharan:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charan291005&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="48%" />
-</div>
-
-<br>
-
-<!-- Contribution Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Charan291005/Charan291005/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Charan291005/Charan291005/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Charan291005/Charan291005/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
 </div>
 
 ---
