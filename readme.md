@@ -100,5 +100,5 @@ class ShreeCharan:
 
 <br>
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Charan291005&icon=1&color=6" />
+  <img src="https://komarev.com/ghpvc/?username=Charan291005&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
