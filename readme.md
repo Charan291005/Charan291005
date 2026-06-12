@@ -87,9 +87,9 @@ class ShreeCharan:
 <table align="center" style="border:none;">
   <tr>
     <td width="30%" align="center">
-      <img src="https://media.giphy.com/media/11s7Ke7jcNxCHS/giphy.gif" alt="Minions Cheering" width="100%" />
+      <img src="https://media.giphy.com/media/VbO834Q9m4qT6/giphy.gif" alt="Bob holding Tim" width="100%" />
       <br><br>
-      <img src="https://media.giphy.com/media/2Faz6y15R1q7Y08Gk/giphy.gif" alt="Minion Work" width="100%" />
+      <img src="https://media.giphy.com/media/l41YkxvU8c7J7Bba0/giphy.gif" alt="King Bob" width="100%" />
     </td>
     <td width="70%" align="center">
       <img src="https://metrics.lecoq.io/Charan291005?template=terminal&base=header,activity,community,repositories,metadata&config_timezone=Asia/Kolkata" width="100%" alt="Hacker Terminal Metrics" />
