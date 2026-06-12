@@ -82,7 +82,7 @@ class ShreeCharan:
 
 ---
 
-## 🍌 Minion-Approved Hacker Stats
+##  Stats
 
 <table align="center" style="border:none;">
   <tr>
