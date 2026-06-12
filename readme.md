@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Shree%20Charan%20N&fontSize=80&fontAlignY=35&desc=Cybersecurity%20%7C%20Digital%20Forensics%20%7C%20Software%20Engineering&descAlignY=55&descAlign=62&animation=fadeIn" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cybersecurity+Undergraduate+%40+VIT;Digital+Forensics+Explorer;Android+%26+Web+Developer;Minion+Mastermind" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cybersecurity+Undergraduate+%40+VIT;Digital+Forensics+Explorer;Android+%26+Web+Developer;" alt="Typing SVG" />
   </a>
 </div>
 
