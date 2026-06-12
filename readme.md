@@ -66,7 +66,7 @@ class ShreeCharan:
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Charan291005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Charan291005&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charan291005&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="48%" />
 </div>
 <br>
