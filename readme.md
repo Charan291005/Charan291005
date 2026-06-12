@@ -12,9 +12,9 @@
 
 <div align="center">
   <blockquote>
-    <strong>"Securing the digital world, one line of code at a time."</strong>
+    <strong>"Evolving from single-celled yellow organisms at the dawn of time, Minions have always sought to serve the biggest, baddest bosses. I just want to write the biggest, baddest code."</strong>
   </blockquote>
-  <p>I am a highly motivated Computer Science student at <strong>VIT Bhopal University</strong>, majoring in <strong>Cyber Security & Digital Forensics</strong> (CGPA: 8.5). My journey revolves around understanding vulnerabilities, engineering robust software solutions, and diving deep into the world of cryptography.</p>
+  <p>Just like Kevin, Stuart, and Bob venturing out to 1960s New York City to find a new master, my journey revolves around venturing into the depths of <strong>Cyber Security & Digital Forensics</strong>. I am a highly motivated Computer Science student at <strong>VIT Bhopal University</strong> (CGPA: 8.5) with a <em>"giant heart"</em> (just like Bob!) for securing digital ecosystems and building unbreakable systems.</p>
 </div>
 
 ```python
@@ -88,8 +88,10 @@ class ShreeCharan:
   <tr>
     <td width="30%" align="center">
       <img src="https://media.giphy.com/media/VbO834Q9m4qT6/giphy.gif" alt="Bob holding Tim" width="100%" />
+      <br>
+      <em>"Sweet and naïve, a tiny minion with a giant heart."</em>
       <br><br>
-      <img src="https://media.giphy.com/media/l41YkxvU8c7J7Bba0/giphy.gif" alt="King Bob" width="100%" />
+      <img src="https://www.illumination.com/wp-content/uploads/2019/11/Minions_KingBob.png" alt="King Bob" width="100%" />
     </td>
     <td width="70%" align="center">
       <img src="https://metrics.lecoq.io/Charan291005?template=terminal&base=header,activity,community,repositories,metadata&config_timezone=Asia/Kolkata" width="100%" alt="Hacker Terminal Metrics" />
