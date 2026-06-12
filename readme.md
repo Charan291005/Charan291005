@@ -110,6 +110,9 @@ class ShreeCharan:
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg">
     <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-view.svg" width="100%">
   </picture>
+  <br>
+  <!-- Kevin, Stuart, and Bob running in the city! -->
+  <img src="https://media.tenor.com/m/8YpY9q3jXU4AAAAC/minions-running.gif" alt="Kevin, Bob, and Stuart Running!" width="250" />
 </div>
 
 <br>
