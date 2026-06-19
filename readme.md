@@ -1,46 +1,51 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Shree%20Charan%20N&fontSize=80&fontAlignY=35&desc=Cybersecurity%20%7C%20Digital%20Forensics%20%7C%20Software%20Engineering&descAlignY=55&descAlign=62&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontColor=FFE81F&height=300&section=header&text=Shree%20Charan%20N&fontSize=80&fontAlignY=35&desc=Cybersecurity%20%7C%20Digital%20Forensics%20%7C%20Software%20Engineering&descAlignY=55&descAlign=62&animation=twinkling" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cybersecurity+Undergraduate+%40+VIT;Digital+Forensics+Explorer;Android+%26+Web+Developer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&pause=1000&color=FFE81F&center=true&vCenter=true&width=600&lines=Cybersecurity+Padawan+%40+VIT;Digital+Forensics+Jedi;Android+%26+Web+Developer;May+The+Code+Be+With+You" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-## 👨‍💻 My Journey
+## 🌌 My Jedi Journey
 
 <div align="center">
   <blockquote>
-    <strong>"Evolving from single-celled yellow organisms at the dawn of time, Minions have always sought to serve the biggest, baddest bosses. I just want to write the biggest, baddest code."</strong>
+    <strong>"I find your lack of security disturbing. That is why I build unbreakable systems, for the Force is strong with my code."</strong>
   </blockquote>
-  <p>Just like Kevin, Stuart, and Bob venturing out to 1960s New York City to find a new master, my journey revolves around venturing into the depths of <strong>Cyber Security & Digital Forensics</strong>. I am a highly motivated Computer Science student at <strong>VIT Bhopal University</strong> (CGPA: 8.5) with a <em>"giant heart"</em> (just like Bob!) for securing digital ecosystems and building unbreakable systems.</p>
+  <p>Just like a Padawan mastering the ways of the Force, my journey revolves around venturing into the depths of <strong>Cyber Security & Digital Forensics</strong>. I am a highly motivated Computer Science student at <strong>VIT Bhopal University</strong> (CGPA: 8.5) committed to defending the digital galaxy from the dark side of cyber-attacks.</p>
 </div>
 
 ```python
-class ShreeCharan:
+class ShreeCharan(JediMaster):
     def __init__(self):
         self.name = "Shree Charan N"
         self.role = "Cybersecurity Intern @ HAL & MP Police"
         self.location = "Bengaluru, Karnataka, India"
-        self.hobbies = ["Cryptography", "Steganography", "Android Dev", "Machine Learning"]
+        self.skills = ["Cryptography", "Steganography", "Jedi Mind Tricks", "Machine Learning"]
+        self.lightsaber_color = "Blue (Defender of the Network)"
 
     def current_focus(self):
-        return "Architecting DRM-based encryption systems & AI/ML attack analysis models."
+        return "Architecting DRM-based encryption systems & battling Sith cyber-attacks."
         
     def goals(self):
-        return "To build unbreakable systems and innovate in the digital forensics space."
+        return "To build unbreakable systems and restore balance to the digital galaxy."
 ```
 
 ---
 
-## 🛠️ Technology Arsenal
+## 🛠️ Galactic Technology Arsenal
+
+<details>
+  <summary><b>✨ [Click to Reveal] Open the Holocron of Skills</b></summary>
+  <br>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="25%">
-        <h3>💻 Languages</h3>
+        <h3>💻 Core Languages</h3>
         <br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -50,13 +55,13 @@ class ShreeCharan:
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
       </td>
       <td align="center" width="25%">
-        <h3>🛡️ Cybersecurity</h3>
+        <h3>🛡️ Cyber Defense</h3>
         <br>
-        <img src="https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logo=security&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logo=security&logoColor=FFE81F" />
         <br><br>
-        <img src="https://img.shields.io/badge/Digital_Forensics-4B0082?style=for-the-badge&logo=linux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Digital_Forensics-4B0082?style=for-the-badge&logo=linux&logoColor=FFE81F" />
         <br><br>
-        <img src="https://img.shields.io/badge/Network_Security-0052CC?style=for-the-badge&logo=wireshark&logoColor=white" />
+        <img src="https://img.shields.io/badge/Network_Security-0052CC?style=for-the-badge&logo=wireshark&logoColor=FFE81F" />
       </td>
       <td align="center" width="25%">
         <h3>⚙️ Tools & Platforms</h3>
@@ -79,19 +84,20 @@ class ShreeCharan:
     </tr>
   </table>
 </div>
+</details>
 
 ---
 
-##  Stats
+## 📊 Holonet Stats
 
-<table align="center" style="border:none;">
+<table align="center" style="border:none; background-color: transparent;">
   <tr>
     <td width="30%" align="center">
-      <img src="https://media.giphy.com/media/VbO834Q9m4qT6/giphy.gif" alt="Bob holding Tim" width="100%" />
+      <img src="https://media.giphy.com/media/3o84sq21TxDH6PyYms/giphy.gif" alt="Unlimited Power" width="100%" style="border-radius: 10px;" />
       <br>
-      <em>"Sweet and naïve, a tiny minion with a giant heart."</em>
+      <em>"Unlimited Power! (in code)"</em>
       <br><br>
-      <img src="https://www.illumination.com/wp-content/uploads/2019/11/Minions_KingBob.png" alt="King Bob" width="100%" />
+      <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="Hello There" width="100%" style="border-radius: 10px;" />
     </td>
     <td width="70%" align="center">
       <img src="https://metrics.lecoq.io/Charan291005?template=terminal&base=header,activity,community,repositories,metadata&config_timezone=Asia/Kolkata" width="100%" alt="Hacker Terminal Metrics" />
@@ -111,20 +117,20 @@ class ShreeCharan:
     <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-view.svg" width="100%">
   </picture>
   <br>
-  <!-- Kevin, Stuart, and Bob running in the city! -->
-  <img src="https://media.tenor.com/m/8YpY9q3jXU4AAAAC/minions-running.gif" alt="Kevin, Bob, and Stuart Running!" width="250" />
+  <!-- Hyperdrive transition effect -->
+  <img src="https://media.giphy.com/media/3o8doT9BL7dgtolp7O/giphy.gif" alt="Millennium Falcon Hyperdrive" width="350" style="border-radius: 10px; margin-top: 10px;" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charan291005&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charan291005&theme=tokyonight&hide_border=true&ring=FFE81F&fire=FFE81F&currStreakNum=FFE81F" width="48%" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="48%" />
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Establish Comms
 
 <div align="center">
   <a href="mailto:shreecharan5277443@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -134,5 +140,5 @@ class ShreeCharan:
 
 <br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Charan291005&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Charan291005&color=FFE81F&style=flat-square&label=JEDI+ARCHIVE+VIEWS" alt="Profile Views" />
 </p>
